@@ -1,5 +1,5 @@
 Brad Traversy
-# Modern HTML & CSS From The Beginning Including Sass 2023>\
+# Modern HTML & CSS From The Beginning Including Sass 2023
 
 ## Chapter 1. Introduction
 1 - Welcome To The Course <https://youtu.be/xMgdxleGgnQ>\
